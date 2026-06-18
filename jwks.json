@@ -6,6 +6,7 @@
             "e": "AQAB",
             "use": "sig",
             "alg": "RS384",
+            "kid": "my-key-1"
             "n": "wfbw3MXTkJ6yWWtZeddg-WYNKAFmUhiCh6X6AxQcQJYZQEYCTR0V73EH3ESPyYJebN7lXIbfsUHOonpiJt5GbYnlJMImQADCMFO9XRYtskWvHu7wCfKqO0VlAqbhYPao7Ca0xQrocKIk7DOE2i_ZXF5CLVnsxi-swLTdnvkQybzGXAFlaZq25mvyf4ZlDEwGO4-KKB8OSdY8BUfe4u5xGKoKZdW7qqavI0uunpze8-zvbgtNsXNzvZCOeWzfWuoZgNKHvm5-yqKWOQkLkB4r88SnHQzc4isbcaK8VHGmHbKohkLEjwTyEjQXzW8MCWh0R_79xMHVwHAn2AymmN9meQ"
         }
     ]
