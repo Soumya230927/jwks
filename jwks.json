@@ -1,13 +1,13 @@
 
 {
-    "keys": [
-        {
-            "kty": "RSA",
-            "e": "AQAB",
-            "use": "sig",
-            "alg": "RS384",
-            "kid": "my-key-1",
-            "n": "wfbw3MXTkJ6yWWtZeddg-WYNKAFmUhiCh6X6AxQcQJYZQEYCTR0V73EH3ESPyYJebN7lXIbfsUHOonpiJt5GbYnlJMImQADCMFO9XRYtskWvHu7wCfKqO0VlAqbhYPao7Ca0xQrocKIk7DOE2i_ZXF5CLVnsxi-swLTdnvkQybzGXAFlaZq25mvyf4ZlDEwGO4-KKB8OSdY8BUfe4u5xGKoKZdW7qqavI0uunpze8-zvbgtNsXNzvZCOeWzfWuoZgNKHvm5-yqKWOQkLkB4r88SnHQzc4isbcaK8VHGmHbKohkLEjwTyEjQXzW8MCWh0R_79xMHVwHAn2AymmN9meQ"
-        }
-    ]
+  "keys": [
+    {
+      "kty": "RSA",
+      "e": "AQAB",
+      "n": "yiXQA0word267oVcJt7Lk5Ydmw6xDtyYCT-pMoNHNsLsCTvgWV9GexS4_VQv0pEHr7GYy7cHlyMzApjdTtnrRmx6X8sBXBIyPWXF7bBiGDM5Z1nhY5xec9o4NH9ydZf02dN8nq-9gqdL1vSE5i_oLW2nxZRYZlflOl8lpLIjEiFlCdv__66VEmfxJH07QtgkoljgAt6WJ0wtoHUlcPI8h3sVL6PZCCo1ikPMGxWLs-yKxGGvSASyIuMmOM2OKbVg54AYv8IpN1nypJJMPeOezYDTI7B4YZ8QxHwfj1tEn4zjEnNtNvkpxA6DLSQ6RLdkPUURxB30t31q_UALcEXT_w",
+      "alg": "RS384",
+      "use": "sig",
+      "kid": "my-key-1"
+    }
+  ]
 }
